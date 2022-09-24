@@ -1,4 +1,3 @@
-import './App.css';
 import Dark from './Dark';
 
 function App() {
