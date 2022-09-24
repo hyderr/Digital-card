@@ -29,9 +29,9 @@ export default function Dark(props){
                 </p>
             </div>
             <div className='foot'>
-                <a className='social' href='https://instagram.com/_rahul_bisht._/'rel="noreferrer" target="_blank" ><FaInstagram   size={30} /></a>
-                <a className='social' href='https://www.facebook.com/people/Rahul-Bisht/100007715534405/'rel="noreferrer" target="_blank"><FaFacebook  size={30} /></a>
-                <a className='social' href='https://github.com/hyderr/'rel="noreferrer" target="_blank"><FaGithub  size={30} /></a>
+                <a className='social' href='https://instagram.com/_rahul_bisht._'rel="noreferrer" target="_blank" ><FaInstagram   size={30} /></a>
+                <a className='social' href='https://www.facebook.com/people/Rahul-Bisht/100007715534405' rel="noreferrer" target="_blank"><FaFacebook  size={30} /></a>
+                <a className='social' href='https://github.com/hyderr'rel="noreferrer" target="_blank"><FaGithub  size={30} /></a>
             </div> 
         
             </div>
