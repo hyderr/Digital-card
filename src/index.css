@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;700&display=swap');
+*{
+  font-family: Inter;
+}
+body{
+  background-color: #23252C;
+  color: white;
+}
+.App{
+
+  text-align: center;
+  width: 317px;
+  background: #1A1B21;
+  border-radius: 10px 10px 0px 0px;
+  margin: auto;
+
+}
+
+.profile-pic{
+  width: 317px;
+  height: 317px;
+  border-radius: 10px 10px 0px 0px;
+}
+h2{
+  margin-bottom: 0;
+}
+h3{
+  text-align: left;
+  margin-left: 10px;
+}
+h4{
+  color: #F3BF99;
+  margin-top: 0;
+}
+
+.email{
+  background-color: aliceblue;
+  color: #161619;
+  border-radius: 6px;
+  padding: 5px 22px ;
+  margin: 0px 15px;
+  
+
+}
+
+.linkedin{
+  border-radius: 6px;
+  padding: 5px 9px;
+  margin: 0px 15px;
+  background-color: #5093E2;
+  color: white;
+ 
+}
+
+.website{
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+
+.mail{
+  position: relative;
+  top: 1px;
+  margin-right: 5px;
+
+}
+.about{
+  text-align: left;
+  width: 242.71px;
+  margin-left: 10px;
+
+}
+.interest{
+  text-align: left;
+  width: 242.71px;
+  margin-left: 10px;
+
+}
+
+.foot{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  Width:317px;
+  Height:64px;
+  background: #161619;
+
+}
+.social{
+  color: white;
+  margin: 15px;
+}
+.social:hover{
+  color: #956fed;
+}
+.email:hover {
+  background-color: #956fed;
+}
+.linkedin:hover{
+  background-color: #956fed;
+}
+
+
+.para{
+  padding: 20px;
+}
+
+a:link {
+  color: none;
+  text-decoration:none;
+  cursor: pointer;
+}
+
+
+/* a:link:active, a:visited:active {
+  
+} */
